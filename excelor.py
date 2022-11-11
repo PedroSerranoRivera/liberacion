@@ -1,3 +1,7 @@
+# By  
+# https://github.com/carlosmyr23   
+# https://github.com/PedroSerranoRivera
+
 #Liberias
 import pandas as pd
 import os
