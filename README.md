@@ -5,7 +5,7 @@ Repositorio para utilidades del trabajo.
 
 ## Getting started
 
-excelor.py busca archivos templates y le agrega un csv y lo organiza en carpetas.
+Archivo excelor.py busca archivos templates y le agrega un csv y lo organiza en carpetas.
 
 ## License
 
