@@ -1,3 +1,7 @@
+# By  
+# https://github.com/carlosmyr23   
+# https://github.com/PedroSerranoRivera
+ 
 import pytesseract
 from importlib.metadata import files
 from logging import lastResort
